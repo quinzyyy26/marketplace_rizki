@@ -1,5 +1,6 @@
 # marketplace_rizki
 berikut bagan untuk struktural dari koding yang ada di file atas 
+```
 marketplace_rizki/
 ├── lib/
 │   ├── main.dart
@@ -23,7 +24,7 @@ marketplace_rizki/
 |       └── cart_dialog.dart
 |       └── cart_item_card.dart
 |   └── main.dart
-
+```
 #TUTORIAL 
 *langkah pertama 
   buka aplikasi visual studio code lalu klik short cut 'ctrl+shift+p' 
