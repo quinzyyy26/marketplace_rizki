@@ -25,9 +25,9 @@ marketplace_rizki/
 |       └── cart_item_card.dart
 |   └── main.dart
 ```
-#TUTORIAL 
-*langkah pertama 
-  buka aplikasi visual studio code lalu klik short cut 'ctrl+shift+p' 
+# TUTORIAL 
+* langkah pertama 
+  buka aplikasi visual studio code lalu klik short cut `ctrl+shift+p` 
   -> Buat file dengan nama marketplace_rizki
 otomatis dalam sistem vc code akan memunculkan beberapa file kunci dllnya 
 bila sudah muncul sesuaikan code di bagian lib seperti bagan di atas atau seperti di bagian code 
@@ -47,7 +47,7 @@ dev_dependencies:
     sdk: flutter
 ```
 lalu masukan di cmd dengan code `pub get flutter`
-#CODE
+# CODE
   1.main dart
 ```
 ##main dart
